@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>kookboek </title>
+    </head>
+    <body>
+<script> 
+var ingredient1 = prompt("welk ingredient moet het zijn");
+var ingredient2= prompt("welk ingredient moet het zijn")  
+var mix = prompt("Hoe wil je mixen")
+var time = prompt("Hoe lang moet het duren") 
+var product = prompt("resultaten")
+
+var oplossing = " je " + mix + " het "+ ingredient1 + " en " + " het " + ingredient2 + " voor "+ time 
+alert (oplossing)
+</script>        
+
+    </body>
+</html>
