@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>kookboek </title>
+    </head>
+    <body>
+<script> 
+var ingredient1 = prompt("which ingredient must it be");
+var ingredient2= prompt("which ingredient must it be")  
+var mix = prompt("What must you mix")
+var time = prompt("How long should it take") 
+
+</script>        
+
+    </body>
+</html>
